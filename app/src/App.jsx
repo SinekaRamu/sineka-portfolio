@@ -7,7 +7,6 @@ function App() {
     <div className="navbar">
       <div className="logo">
        <h1>Sineka here..</h1>
-        Portfolio
         </div>
       <ul className="navTool">
         <li>About</li>
